@@ -21,12 +21,12 @@ nav{
     padding-top: 30px; 
     padding-left: 10px;
 }
-.nav-bar .socials{
+.nav-bar .socials a{
     padding: 20px 30px;
     left: 35.22%;
     
 }
-.nav-bar .socials a{
+.nav-bar .socials a img{
     padding: 20px 10px;
     top: 45%;
 }
